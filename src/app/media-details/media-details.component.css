@@ -1,0 +1,9 @@
+.media-card {
+    margin-bottom: 10px;
+}
+
+.media-card > .card-header {
+    font-size: 18px;
+    font-weight: 500;
+    padding: 5px;
+}
